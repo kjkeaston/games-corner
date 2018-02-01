@@ -3,3 +3,30 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+/*Executioner.js*/
+#grim-reaper {
+  height: 400px;
+  width: 400px;
+}
+
+#word-selection-form {
+  margin-top: 175px;
+}
+
+/*Hangman.js*/
+.title {
+  margin-top: 30px;
+}
+
+#gallow-and-guesses {
+  margin-top: 50px;
+}
+
+.pick-a-letter {
+  margin-top: 175px;
+}
+
+#hidden-word-letters {
+  margin-top: 50px;
+}

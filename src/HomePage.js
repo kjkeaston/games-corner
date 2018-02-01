@@ -10,10 +10,10 @@ class HomePage extends Component {
     return (
       <div clasName="container">
         <h1>Some Games</h1>
-        
+
         <div className="row">
           <div className="col-md-6">
-            <Link to={'/hangman'}>
+            <Link to={'/hangman/executioner'}>
               <h2>Hangman</h2>
             </Link>
           </div>
